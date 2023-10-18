@@ -1,2 +1,2 @@
-# JS-Lana
+# Html-Lana
 Pong no JavaScript 
